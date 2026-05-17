@@ -284,16 +284,6 @@ Relevant Coursework:
 - Udemy: The Complete SQL Bootcamp
 - Udemy: The Complete Python Bootcamp
 
----
-
-
-## 📊 GitHub Activity
-
-I actively build and improve DevOps, cloud, automation, and deployment-focused projects on GitHub.
-
-> My real GitHub contribution graph is shown automatically below this README on my GitHub profile.
-
----
 
 ## 🌐 Connect With Me
 
