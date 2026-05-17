@@ -287,17 +287,25 @@ Relevant Coursework:
 ---
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+I actively build and improve DevOps, cloud, automation, and deployment-focused projects on GitHub.
+
+> My real GitHub contribution graph is shown automatically below this README on my GitHub profile.
+
+---
+
+## 🌐 Connect With Me
+
+- **Portfolio:** [birajadhikari49.com.np](https://www.birajadhikari49.com.np)
+- **GitHub:** [github.com/BIRAJ49](https://github.com/BIRAJ49)
+- **LinkedIn:** [Biraj Adhikari](https://www.linkedin.com/in/biraj-adhikari-a42073236)
+- **Email:** [birajadhikari49@gmail.com](mailto:birajadhikari49@gmail.com)
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BIRAJ49&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIRAJ49&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+### “Build it. Deploy it. Monitor it. Improve it.”
 
 </div>
-
----
