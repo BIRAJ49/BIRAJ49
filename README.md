@@ -4,7 +4,7 @@
 
 ### DevOps & Cloud Enthusiast | AWS | Docker | Kubernetes | Linux | CI/CD
 
-I build practical DevOps and cloud projects focused on deployment, automation, infrastructure, containers, and system reliability.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=900&lines=I+build+practical+DevOps+and+cloud+projects;Focused+on+deployment%2C+automation%2C+infrastructure%2C+containers%2C+and+reliability;Learning+and+building+with+AWS%2C+Docker%2C+Kubernetes%2C+Linux%2C+and+CI%2FCD" alt="Typing SVG" />
 
 <br/>
 
@@ -286,33 +286,18 @@ Relevant Coursework:
 
 ---
 
-## 🎯 Career Interests
 
-I am interested in roles related to:
+## 📊 GitHub Stats
 
-- DevOps Intern
-- Junior DevOps Engineer
-- Cloud Engineer Trainee
-- Linux / Cloud Support
-- CI/CD Assistant
-- Site Reliability Trainee
-- Platform Engineering Intern
-- AWS Infrastructure Support
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BIRAJ49&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIRAJ49&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/0EA5E9/BIRAJ49" alt="GitHub Contribution Graph" width="100%" />
-
-</div>
-
-
-
-<div align="center">
-
-### “Build it. Deploy it. Monitor it. Improve it.”
-
-</div>
