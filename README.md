@@ -301,30 +301,15 @@ I am interested in roles related to:
 
 ---
 
-## 📊 Simple GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-| GitHub | Focus |
-|---|---|
-| **Username** | `BIRAJ49` |
-| **Main Area** | DevOps & Cloud |
-| **Core Stack** | AWS, Linux, Docker, Kubernetes, Terraform |
-| **Automation Tools** | GitHub Actions, GitLab CI/CD, Bash |
-| **Current Goal** | DevOps / Cloud Engineer Role |
+<img src="https://ghchart.rshah.org/0EA5E9/BIRAJ49" alt="GitHub Contribution Graph" width="100%" />
 
 </div>
 
----
 
-## 🌐 Connect With Me
-
-- **Portfolio:** [birajadhikari49.com.np](https://www.birajadhikari49.com.np)
-- **GitHub:** [github.com/BIRAJ49](https://github.com/BIRAJ49)
-- **LinkedIn:** [Biraj Adhikari](https://www.linkedin.com/in/biraj-adhikari-a42073236)
-- **Email:** [birajadhikari49@gmail.com](mailto:birajadhikari49@gmail.com)
-
----
 
 <div align="center">
 
