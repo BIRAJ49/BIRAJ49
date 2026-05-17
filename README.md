@@ -2,16 +2,16 @@
 
 # Hi, I'm Biraj Adhikari 👋
 
-### DevOps & Cloud Enthusiast | Linux | Docker | Kubernetes | AWS | CI/CD
+### DevOps & Cloud Enthusiast | AWS | Docker | Kubernetes | Linux | CI/CD
 
-I build practical DevOps and cloud projects focused on deployment, automation, containers, Linux servers, and CI/CD.
+I build practical DevOps and cloud projects focused on deployment, automation, infrastructure, containers, and system reliability.
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-birajadhikari49.com.np-0EA5E9?style=for-the-badge)](https://www.birajadhikari49.com.np)
+[![GitHub](https://img.shields.io/badge/GitHub-BIRAJ49-181717?style=for-the-badge)](https://github.com/BIRAJ49)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Biraj%20Adhikari-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/biraj-adhikari-a42073236)
 [![Email](https://img.shields.io/badge/Email-birajadhikari49%40gmail.com-EA4335?style=for-the-badge)](mailto:birajadhikari49@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-BIRAJ49-181717?style=for-the-badge)](https://github.com/BIRAJ49)
 
 </div>
 
@@ -19,110 +19,241 @@ I build practical DevOps and cloud projects focused on deployment, automation, c
 
 ## 👨‍💻 About Me
 
-I am a DevOps and Cloud enthusiast focused on building practical, deployment-ready projects using **Linux, Docker, Kubernetes, AWS, Terraform, Nginx, PostgreSQL, Redis, Varnish, and CI/CD tools**.
+I am a Computer Science student focused on **DevOps and cloud automation**. I have working knowledge of **AWS, Docker, Kubernetes, Linux, Terraform, CI/CD, Nginx, PostgreSQL, Redis, Varnish, and GitHub Actions**.
 
-I enjoy working on real infrastructure problems such as containerizing applications, setting up deployment pipelines, configuring servers, automating tasks, managing cloud resources, and improving system reliability.
+I enjoy building deployment-ready projects, automating infrastructure tasks, containerizing applications, setting up CI/CD pipelines, troubleshooting Linux servers, and improving system reliability.
 
-My goal is to grow as a **DevOps / Cloud Engineer** by working on real-world infrastructure, automation, monitoring, deployment, and cloud operations.
-
----
-
-## 🚀 What I Focus On
-
-- Linux server administration and troubleshooting
-- Docker and Docker Compose based deployments
-- Kubernetes manifests and container orchestration
-- CI/CD automation using GitHub Actions and GitLab CI/CD
-- AWS infrastructure using EC2, S3, IAM, RDS, VPC, and Route 53
-- Infrastructure as Code using Terraform
-- Reverse proxy setup using Nginx and Caddy
-- PostgreSQL, Redis, and Varnish based application support
-- Monitoring, logging, and security basics
-- Building DevOps-focused tools and automation projects
+My goal is to grow as a **DevOps / Cloud Engineer** by working on real-world infrastructure, deployment, automation, monitoring, and cloud operations.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience
 
-### Cloud & Infrastructure
+### DevOps Intern — SoftNEP  
+**Dec 2025 – Mar 2026**
 
-`AWS` `Linux` `Terraform` `Nginx` `Caddy` `VPC` `IAM` `EC2` `S3` `RDS`
-
-### Containers & CI/CD
-
-`Docker` `Docker Compose` `Kubernetes` `Minikube` `GitHub Actions` `GitLab CI/CD`
-
-### Programming & Backend
-
-`Python` `JavaScript` `Node.js` `FastAPI` `PostgreSQL` `SQL` `Bash`
-
-### Tools & Security Basics
-
-`Git` `GitHub` `VS Code` `Postman` `Nmap` `OWASP ZAP` `Metasploit` `Burp Suite`
+- Deployed a Job & Internship Portal on **AWS EC2** using **Docker Compose**, **Nginx/Caddy reverse proxy**, **Cloudflare SSL**, **Redis**, and **Varnish**.
+- Built **CI/CD pipelines with GitHub Actions** for automated testing, building, and deployment.
+- Managed DNS, SSL certificate provisioning, and infrastructure tasks through WHM/cPanel.
+- Monitored application logs and troubleshot deployment issues on Linux servers.
+- Performed basic security assessments using **Nmap, Metasploit, and OWASP ZAP**.
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Skills
 
-### 🔧 DevOps Project Generator
+<table>
+<tr>
+<td width="50%">
 
-A full-stack web application that generates real-world DevOps project ideas with architecture, tools list, implementation steps, and starter code for **Docker, Kubernetes, CI/CD, and Terraform**.
+### ☁️ Cloud & Infrastructure
 
-**Tech Stack:** `FastAPI` `React` `Docker` `JWT` `DevOps Templates`  
-**Focus:** DevOps automation, project generation, developer tooling  
+- AWS EC2, S3, IAM, RDS, Lambda
+- VPC, Route 53
+- Terraform
+- Nginx
+- Redis
+- Varnish
 
-[View Repository](https://github.com/BIRAJ49/DevOps_Project-generator)
+</td>
+<td width="50%">
+
+### 📦 Containers & Orchestration
+
+- Docker
+- Docker Compose
+- Kubernetes
+- Minikube
+- YAML manifests
+- Kubernetes Services, ConfigMaps, HPA
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ CI/CD & Automation
+
+- GitHub Actions
+- GitLab CI/CD
+- Bash scripting
+- Deployment automation
+- Backup automation
+- Infrastructure workflow automation
+
+</td>
+<td width="50%">
+
+### 🔐 Security & Tools
+
+- Nmap
+- Metasploit
+- OWASP ZAP
+- Shodan
+- Burp Suite Basics
+- Git, GitHub, Linux
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 Programming & Database
+
+- Python
+- JavaScript
+- SQL
+- PostgreSQL
+- HTML/CSS
+- FastAPI basics
+
+</td>
+<td width="50%">
+
+### 🧠 Currently Improving
+
+- Jenkins
+- Ansible
+- Prometheus
+- Grafana
+- ELK Stack
+- Production-grade Kubernetes
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🖼️ Image Processing Deployment
+## 🚀 Featured Projects
 
-An image upload and resizing backend built with Node.js and PostgreSQL, deployed using Docker, Kubernetes, and GitHub Actions CI/CD.
+<table>
+<tr>
+<td width="50%">
 
-**Tech Stack:** `Node.js` `PostgreSQL` `Docker` `Kubernetes` `GitHub Actions`  
-**Focus:** Backend deployment, containerization, Kubernetes workflow  
+### 🔧 ProjectOps
 
-[View Repository](https://github.com/BIRAJ49/img-processing-deployment)
+Full-stack DevOps project generator that creates project ideas, architecture plans, implementation steps, and starter templates for **Docker, Kubernetes, CI/CD, and Terraform**.
 
----
+**Tech Stack:**  
+`React` `FastAPI` `PostgreSQL` `Docker` `AWS EC2` `Kubernetes` `Argo CD`
 
-### 🔄 Blue-Green Deployment
+**Highlights:**
 
-A blue-green deployment setup using Docker, Nginx, and AWS EC2 to support safer releases, traffic switching, and rollback.
+- JWT authentication and bcrypt password hashing
+- Guest usage limits
+- Email verification and password reset
+- PostgreSQL persistence
+- Docker Compose deployment on AWS EC2
+- Caddy reverse proxy with HTTPS
+- Kubernetes manifests with Ingress, HPA, NetworkPolicy, health probes
+- Argo CD GitOps auto-sync
 
-**Tech Stack:** `Docker` `Nginx` `AWS EC2` `GitHub Actions`  
-**Focus:** Zero-downtime deployment, release strategy, rollback workflow  
+</td>
+<td width="50%">
 
-[View Repository](https://github.com/BIRAJ49/bg-deployment)
+### 🌐 Job & Internship Portal Deployment
 
----
+Full-stack portal deployed on AWS EC2 using Docker and Docker Compose with production-style reverse proxy, SSL, caching, and CI/CD automation.
 
-### 🧩 Containerized Microservices App
+**Tech Stack:**  
+`Docker` `AWS EC2` `Nginx` `Caddy` `GitHub Actions` `Redis` `Varnish`
 
-A containerized Node.js web and API service setup with MongoDB, orchestrated using Docker Compose.
+**Highlights:**
 
-**Tech Stack:** `Node.js` `MongoDB` `Docker Compose`  
-**Focus:** Microservices, container networking, multi-service deployment  
+- Deployed full-stack application on AWS EC2
+- Configured Nginx/Caddy reverse proxy
+- Added Cloudflare SSL for HTTPS
+- Used Redis and Varnish for performance optimization
+- Automated deployment lifecycle with GitHub Actions
 
-[View Repository](https://github.com/BIRAJ49/containerized-microservices-app)
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
-### 🗄️ Automated Database Backup
+### ☁️ Cloud Infrastructure Automation
 
-A simple database backup automation project focused on safer backup routines and recovery practice.
+Modular Terraform project for provisioning AWS infrastructure using reusable and version-controlled IaC configurations.
 
-**Tech Stack:** `Bash` `PostgreSQL` `Automation`  
-**Focus:** Backup automation, database operations, scripting  
+**Tech Stack:**  
+`Terraform` `AWS EC2` `S3` `IAM` `Git`
 
-[View Repository](https://github.com/BIRAJ49/automated-db-backup)
+**Highlights:**
+
+- Provisioned EC2 instances, S3 buckets, and IAM roles
+- Reduced manual cloud setup using one-command deployment
+- Used Git for infrastructure version control
+- Focused on repeatable and clean infrastructure workflows
+
+</td>
+<td width="50%">
+
+### ☸️ Kubernetes Cluster Deployment
+
+Local Kubernetes deployment project using Dockerized application workloads and YAML manifests.
+
+**Tech Stack:**  
+`Kubernetes` `Minikube` `Docker` `YAML`
+
+**Highlights:**
+
+- Deployed multi-replica Dockerized application
+- Created Deployments, Services, and ConfigMaps
+- Configured horizontal pod scaling
+- Verified load balancing across replicas
+- Practiced cluster management using kubectl and Minikube dashboard
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🗄️ Automated Backup & Recovery System
+
+Automated PostgreSQL backup system using GitHub Actions and AWS S3 for scheduled database backup storage.
+
+**Tech Stack:**  
+`GitHub Actions` `PostgreSQL` `AWS S3` `Bash`
+
+**Highlights:**
+
+- Scheduled PostgreSQL database backups every 12 hours
+- Uploaded encrypted database dumps to AWS S3
+- Used IAM-based access control
+- Focused on backup reliability and recovery practice
+
+</td>
+<td width="50%">
+
+### 🧪 More DevOps Practice
+
+I continue building DevOps-focused projects around deployment automation, infrastructure management, monitoring, and cloud reliability.
+
+**Focus Areas:**  
+`CI/CD` `Linux` `Docker` `Kubernetes` `AWS` `Terraform` `Monitoring`
+
+**What I’m Building Toward:**
+
+- Better production deployment workflows
+- GitOps-based Kubernetes delivery
+- Monitoring and alerting systems
+- Infrastructure automation with Ansible and Terraform
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧪 DevOps Workflow I Practice
 
 ```bash
-Code → Build → Test → Dockerize → Deploy → Monitor → Improve
+Code → Build → Test → Containerize → Deploy → Monitor → Improve
 ```
 
 ```bash
@@ -134,21 +265,30 @@ terraform apply
 
 ---
 
-## 📚 Currently Learning
+## 📚 Education
 
-- Advanced Kubernetes
-- Jenkins CI/CD pipelines
-- Ansible automation
-- Prometheus and Grafana monitoring
-- ELK Stack logging
-- Production-grade DevOps workflows
-- Cloud infrastructure best practices
+### B.Sc. in Computer Science & Information Technology  
+**Birat Kshitiz College, Tribhuvan University**
+
+Relevant Coursework:
+
+`Data Structures & Algorithms` `Software Engineering` `Operating Systems`  
+`Information Security` `Computer Networks` `Web Technology`  
+`Database Management Systems` `Cloud Computing`
 
 ---
 
-## 🎯 Career Interest
+## 📜 Training & Certifications
 
-I am interested in opportunities related to:
+- Udemy: DevOps Beginners to Advanced with Projects
+- Udemy: The Complete SQL Bootcamp
+- Udemy: The Complete Python Bootcamp
+
+---
+
+## 🎯 Career Interests
+
+I am interested in roles related to:
 
 - DevOps Intern
 - Junior DevOps Engineer
@@ -161,16 +301,17 @@ I am interested in opportunities related to:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Simple GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BIRAJ49&show_icons=true&theme=tokyonight&hide_border=true" alt="Biraj's GitHub Stats" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIRAJ49&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+| GitHub | Focus |
+|---|---|
+| **Username** | `BIRAJ49` |
+| **Main Area** | DevOps & Cloud |
+| **Core Stack** | AWS, Linux, Docker, Kubernetes, Terraform |
+| **Automation Tools** | GitHub Actions, GitLab CI/CD, Bash |
+| **Current Goal** | DevOps / Cloud Engineer Role |
 
 </div>
 
